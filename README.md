@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-  <a href="https://github.com/BSH2409/Minor_Project">
+  <a href="https://github.com/BSH2409/Covid_Vaccine_Locator">
     <img src="static/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -8,14 +8,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/BSH2409/Minor_Project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BSH2409/Minor_Project">View Demo</a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator">View Demo</a>
     ·
-    <a href="https://github.com/BSH2409/Minor_Project/issues">Report Bug</a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BSH2409/Minor_Project/issues">Request Feature</a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator/issues">Request Feature</a>
   </p>
 </div>
 
