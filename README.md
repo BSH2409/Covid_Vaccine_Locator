@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center">
-  <a href="https://github.com/BSH2409/Minor_Project">
+  <a href="https://github.com/BSH2409/Covid_Vaccine_Locator">
     <img src="static/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -8,14 +8,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/BSH2409/Minor_Project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/BSH2409/Minor_Project">View Demo</a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator">View Demo</a>
     ·
-    <a href="https://github.com/BSH2409/Minor_Project/issues">Report Bug</a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BSH2409/Minor_Project/issues">Request Feature</a>
+    <a href="https://github.com/BSH2409/Covid_Vaccine_Locator/issues">Request Feature</a>
   </p>
 </div>
 
@@ -211,5 +211,5 @@ https://user-images.githubusercontent.com/79904688/149457045-fe4ca072-cf7c-45e1-
 
 Bhartik Harchand - [Instagram](https://www.instagram.com/_._bsh_._/) - bsh.bhartik@gmail.com
 
-Project Link: [https://github.com/BSH2409/Minor_Project](https://github.com/BSH2409/Minor_Project)
+Project Link: [https://github.com/BSH2409/Covid_Vaccine_Locator](https://github.com/BSH2409/Covid_Vaccine_Locator)
 
